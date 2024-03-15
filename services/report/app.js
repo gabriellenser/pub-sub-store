@@ -38,5 +38,3 @@ async function consume() {
 }
 
 consume();
-
-consume()
